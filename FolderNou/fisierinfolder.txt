@@ -1,1 +1,1 @@
-fisier
+File text cu continut nou.
